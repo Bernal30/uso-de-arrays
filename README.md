@@ -6,3 +6,5 @@
 <p>Un array es un objeto global en JavaScript de tipo lista de alto nivel. Un ejemplo de declaración de array es:</p>
 
 ```let listaColores = ['azul', 'verde', 'morado', 'amarillo'];```
+
+<p>Sobre distintos arrays del proyecto se implementaran funciones integradas en JavaScript para trabajar con arrays</p>
